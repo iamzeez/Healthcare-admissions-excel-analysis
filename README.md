@@ -22,7 +22,7 @@ and financial attributes.
 
 ## Data Source
 - Public healthcare admissions dataset (CSV)
-- Link: [healthcare_dataset mubby.csv](https://github.com/user-attachments/files/24768408/healthcare_dataset.mubby.csv)
+- Link: https://docs.google.com/spreadsheets/d/1qadwfBz_xsBab5-yC4oUZ_SDaJo-RmZh/edit?usp=drive_link&ouid=110898791710591676378&rtpof=true&sd=true
 
 **Key columns include:**
 - Patient Age
@@ -111,8 +111,10 @@ This analysis supports better hospital decision-making by:
 - Insights_Recommendations – findings and actions
 
 ## Screenshots
-<img width="1919" height="1009" alt="Screenshot 2026-01-19 132723" src="https://github.com/user-attachments/assets/e4fa1e1e-8157-4fb9-92c2-0b5edb8b4f60" />
-<img width="1919" height="1007" alt="Screenshot 2026-01-19 132641" src="https://github.com/user-attachments/assets/9d465bcf-015c-4486-8e8e-4f680db11bf7" />
+<img width="1919" height="1006" alt="Screenshot 2026-01-28 153251" src="https://github.com/user-attachments/assets/7d26cb3a-3f36-4329-8f45-2d4fd9392efa" />
+<img width="1919" height="1006" alt="Screenshot 2026-01-28 153557" src="https://github.com/user-attachments/assets/4ac348dc-a518-42b7-8a10-d21dd20c712f" />
+
+
 
 
 ## Next Steps
